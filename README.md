@@ -11,13 +11,12 @@ O objetivo do projeto é permitir a busca por Ongs e suas necessidades, facilita
 
 Antes de tudo, instale o node, npm e yarn em seu ambiente. Em seguida, com o terminal aberto, clone este repositório em sua pasta de preferência e acesse-o, utilizando os comandos:
 
-~ git clone https://github.com/leandrovi/be-the-hero.git
+~ git clone https://github.com/Neeehmartins/api.be-the-hero-backend
 ~ cd be-the-hero
 Back-end
 Estando na pasta be-the-hero, acesse o back-end da aplicação:
 ~ cd backend
-Baixe todas as dependências com yarn:
-~ yarn
+Baixe todas as dependências com npm:
 Execute a api:
-~ yarn start
+~ npm start
 A api estará disponível no endereço http://localhost:3333.
