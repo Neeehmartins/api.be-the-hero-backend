@@ -4,12 +4,17 @@ Aplicação Full Stack e Mobile que permite ajudar ONGs de acordo com as necessi
 
 Este projeto foi desenvolvido ao longo da Semana OmniStack 11.0, junto com a Rocketsheat.
 
-O objetivo do projeto é permitir a busca por Ongs e suas necessidades, facilitando o contato para suprir os Casos/Incidentes divulgados. Para isso, o projeto está dividido em 3 partes:
+O objetivo do projeto é permitir a busca por Ongs e suas necessidades, facilitando o contato para suprir os Casos/Incidentes divulgados. Para isso, o projeto está dividido em 2 partes:
+
 
 - Back-end (REST API em Node.js)
 - Front-end (Interface Web em React)
 
+
+
 Antes de tudo, instale o node, npm e yarn em seu ambiente. Em seguida, com o terminal aberto, clone este repositório em sua pasta de preferência e acesse-o, utilizando os comandos:
+
+
 
 ~ git clone https://github.com/Neeehmartins/api.be-the-hero-backend
 ~ cd be-the-hero
