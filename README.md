@@ -18,12 +18,11 @@ Antes de tudo, instale o node, npm e yarn em seu ambiente. Em seguida, com o ter
 
 
 
-~ git clone https://github.com/Neeehmartins/api.be-the-hero-backend
-~ cd be-the-hero
-Back-end
-Estando na pasta be-the-hero, acesse o back-end da aplicação:
-~ cd backend
-Baixe todas as dependências com npm:
-Execute a api:
-~ npm start
-A api estará disponível no endereço http://localhost:3333.
+- git clone https://github.com/Neeehmartins/api.be-the-hero-backend
+- cd be-the-hero Back-end
+- Estando na pasta be-the-hero, acesse o back-end da aplicação:
+- cd backend
+- Baixe todas as dependências com npm:
+- Execute a api:
+- npm start
+- A api estará disponível no endereço http://localhost:3333.
